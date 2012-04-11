@@ -1,0 +1,1 @@
+This repository holds my solutions to problems from algorithm practices and programming competitions.
